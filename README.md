@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Caroline M
+- 👋  Hi, I’m Caroline
 - 👀  I’m interested in Docker, Jenkins, Kubernetes, Python. 
 - ⚡   I spend alot of my time problem solving, continiously improving and developing systems
 - 📫 How to reach me 
