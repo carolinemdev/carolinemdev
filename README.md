@@ -1,6 +1,6 @@
-- 👋  Hi, I’m Caroline
+- 👋  Hi, I’m Caroline, a Devops Engineer
 - 👀  I’m interested in Docker, Jenkins, Kubernetes, Python. 
-- ⚡   I spend alot of my time problem solving, continiously improving and developing systems
+- ⚡   I spend alot of my time problem solving, developing systems, continiously improving & deploying
 - 📫 How to reach me 
 <div align="center">
 <a href="https://twitter.com/carolinemdev" target="_blank">
