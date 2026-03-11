@@ -4,6 +4,7 @@
 
 I design, build, and operate reliable infrastructure and deployment pipelines for complex distributed systems. My work focuses on **automation, observability, and scalable platform engineering**
 
+
 ---
 
 ## 𖣠 Core Focus
@@ -31,8 +32,8 @@ I design, build, and operate reliable infrastructure and deployment pipelines fo
 - BigQuery
 - PostgreSQL
 - S3 / Object Storage
-
   
+Most work in this GitHub account is maintained in private repositories.
 
 <div align="center">
 📫 How to reach me 
