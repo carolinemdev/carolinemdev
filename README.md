@@ -34,7 +34,7 @@ I design, build, and operate reliable infrastructure and deployment pipelines fo
 - S3 / Object Storage
   
 
-Most work in this GitHub account is maintained in private repositories.
+This GitHub account is for personal projects that are in private repositories.
 
 
 <div align="center">
